@@ -17,10 +17,3 @@ Ce projet implémente un système de vision par ordinateur capable de détecter 
     * Entraînement du modèle (Training).
     * Évaluation des performances.
 * `test.py` : Script d'application finale. Il charge le modèle entraîné (`best.pt`) et lance la détection sur le flux vidéo de la caméra.
-
-##  Installation
-
-1. Clonez ce dépôt :
-   ```bash
-   git clone [https://github.com/votre-username/nom-du-repo.git](https://github.com/votre-username/nom-du-repo.git)
-   cd nom-du-repo
